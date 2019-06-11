@@ -29,7 +29,7 @@ METRIC_PROVIDERS = []
 
 # Mail Server
 
-LEMUR_EMAIL = 'lemur@example.com'
+LEMUR_EMAIL = 'aditya_test@example.com'
 LEMUR_SECURITY_TEAM_EMAIL = ['security@example.com']
 LEMUR_DEFAULT_EXPIRATION_NOTIFICATION_INTERVALS = [30, 15, 2]
 

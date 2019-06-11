@@ -31,7 +31,7 @@ RUN locale-gen en_US.UTF-8
 
 ENV LC_ALL=en_US.UTF-8
 
-ENV LEMUR_VERSION=master LEMUR_TARGET=develop
+ENV LEMUR_VERSION=0.7.0 LEMUR_TARGET=release
 
 # Install Lemur
 RUN git config --global url."https://".insteadOf git:// &&\
